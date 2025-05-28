@@ -893,3 +893,6 @@ http://wayforward.xyz/live/uugjnauw/zNtU7zdSk/53852.ts|user-agent=IPTVPROPlayer
 
 #EXTINF:-1 tvg-id="TNT SPORTS 4 FHD" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/TNT_Sports_4_2023.svg/revision/latest/scale-to-width-down/300?cb=20230407000218", TNT SPORTS 4 FHD
 http://wayforward.xyz/live/uugjnauw/zNtU7zdSk/53853.ts|user-agent=IPTVPROPlayer
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="⚽ SPORTS FHD" tvg-logo="https://get.perfecttv.net/logo/mutv.png",800 MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
